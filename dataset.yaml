@@ -1,0 +1,9 @@
+path: content/drive/MyDrive/Afeka/ComputerVision/FinalProject/image_dataset
+train: images/train
+val: images/val
+test:  # test images (optional)
+
+# Classes 
+names:
+  0: person
+  1: pet
