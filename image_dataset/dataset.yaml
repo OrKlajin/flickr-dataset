@@ -1,0 +1,9 @@
+train: images/train
+val: images/val
+
+# Classes
+nc: 2
+
+names:
+  0: person
+  1: pet
