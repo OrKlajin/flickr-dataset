@@ -1,0 +1,9 @@
+train: /content/drive/MyDrive/Afeka/ComputerVision/FinalProject/image_dataset/images/train
+val: /content/drive/MyDrive/Afeka/ComputerVision/FinalProject/image_dataset/images/val
+
+# Classes
+nc: 2
+
+names:
+  0: person
+  1: pet
